@@ -8,8 +8,6 @@ venv/
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore dataset files if large
-data/
 
 # Ignore log and temporary files
 *.log
